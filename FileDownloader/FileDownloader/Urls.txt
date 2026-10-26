@@ -1,0 +1,7 @@
+https://proof.ovh.net/files/10Mb.dat
+https://proof.ovh.net/files/100Mb.dat
+https://fsn1-speed.hetzner.com/100MB.bin
+https://nbg1-speed.hetzner.com/100MB.bin
+https://hel1-speed.hetzner.com/100MB.bin
+https://speed.cloudflare.com/__down?bytes=100000000
+https://this-link-is-broken.invalid/file.bin
